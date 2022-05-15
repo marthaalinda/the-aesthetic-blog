@@ -65,6 +65,7 @@ p{
     display: block;
     color: var(--tertiary-color);
     text-decoration: none;
+    padding-bottom: 110px;
   }
   .email-link:hover {
     text-decoration: underline;
